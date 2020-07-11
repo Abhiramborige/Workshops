@@ -1,4 +1,2 @@
-# Hello This is first Readme
-
-
-some more changes
+# This repo contains:
+* Lyrics Generation by Coding Blocks
